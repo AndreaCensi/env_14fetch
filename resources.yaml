@@ -1,0 +1,12 @@
+
+- dir: .
+  url: git@github.com:AndreaCensi/env_14fetch.git
+
+- dir: src/Fetch  
+  url: ssh://acensi@sefer.cs.ucla.edu/repo/projects/production/ros_ucla_stacks.git/Fetch
+
+- dir: src/TSTRec  
+  url: ssh://acensi@sefer.cs.ucla.edu/repo/projects/production/ros_ucla_stacks.git/TSTRec
+
+- dir: src/tum_ardrone
+  url: ssh://acensi@sefer.cs.ucla.edu/repo/projects/production/ros_ucla_stacks.git/tum_ardrone
